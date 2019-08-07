@@ -2,4 +2,4 @@
 
 This repo hosts the tutorials for:
 
-GitHub
+GitHub (wiki page: https://github.com/ysl-lab/Tutorials/wiki/Github)
